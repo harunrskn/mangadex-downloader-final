@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![pypi-total-downloads](https://img.shields.io/pypi/dm/mangadex-downloader?label=DOWNLOADS&style=for-the-badge)](https://pypi.org/project/mangadex-downloader)
 [![python-ver](https://img.shields.io/pypi/pyversions/mangadex-downloader?style=for-the-badge)](https://pypi.org/project/mangadex-downloader)
 [![pypi-release-ver](https://img.shields.io/pypi/v/mangadex-downloader?style=for-the-badge)](https://pypi.org/project/mangadex-downloader)
@@ -225,3 +226,7 @@ Please note, that the Discord server is really new and it doesn't have anything 
 ## Disclaimer <a id="disclaimer"></a>
 
 mangadex-downloader are not affiliated with MangaDex. Also, the current maintainer ([@mansuf](https://github.com/mansuf)) is not a MangaDex dev
+=======
+# mangadex-downloader-final
+mangaproject
+>>>>>>> 9426daab572b75e3434568908c3c8bdd2e5e1c85

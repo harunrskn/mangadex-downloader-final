@@ -1,3 +1,4 @@
+
 requests-doh==1.0.0
 requests[socks]
 tqdm
@@ -7,3 +8,9 @@ pyjwt
 beautifulsoup4
 Pillow==11.1.0
 chardet
+
+flask==3.0.3
+flask-cors==4.0.1
+flask-caching==2.3.0
+requests==2.32.3
+urllib3==2.2.2
